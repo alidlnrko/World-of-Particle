@@ -12,7 +12,7 @@
         <nav class="navbar">
             <a href="#" class="logo">World of Particles</a>
             <ul class="nav-links">
-                <li><a href="[c:\Users\user\Desktop\ib project 2024-2025\web\first_lesson.html](https://alidlnrko.github.io/world-of-micro/)">уроки</a></li>
+                <li><a href="(https://alidlnrko.github.io/world-of-micro/)">уроки</a></li>
                 <li><a href="#about">О нас</a></li>
                 <li><a href="#services">лаборатории</a></li>
             </ul>
