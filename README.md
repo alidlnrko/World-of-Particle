@@ -12,7 +12,7 @@
         <nav class="navbar">
             <a href="#" class="logo">World of Particles</a>
             <ul class="nav-links">
-                <li><a href="(https://alidlnrko.github.io/world-of-micro/)">уроки</a></li>
+                <li><a href="https://alidlnrko.github.io/world-of-micro/">уроки</a></li>
                 <li><a href="#about">О нас</a></li>
                 <li><a href="#services">лаборатории</a></li>
             </ul>
